@@ -82,7 +82,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/talha-cv.pdf"
+        href="/talha-cv-20261028.pdf"
         download="Talha-Fakhar-Resume.pdf"
       >
         <HoverLinks text="RESUME" />
