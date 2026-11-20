@@ -1,5 +1,5 @@
 ## Portfoltio site Talha Fakhar
-======
+-
 Full-Stack Software Engineer &amp; M1 MIAGE Student at Université Toulouse Capitole. Explore my latest work across production web applications, monolithic systems, and custom backend tools built with Ruby on Rails, React, Node.js, and PostgreSQL.
 =======
 ## My Portfolio Website - Overview 🚀
@@ -54,10 +54,6 @@ However:
 - It is not open source and not available for reuse
 
 Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
-
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
 
 ---
 
